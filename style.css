@@ -1,0 +1,106 @@
+@charset "utf-8";
+#header h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	float: none;
+	text-align: center;
+	color: #010101;
+}
+body {
+	background-color: #F2F4B8;
+}
+
+#headerh31 {
+	text-align: center;
+}
+#sectionl {
+	float: left;
+	width: 45%;
+	text-align: justify;
+}
+#container {
+	padding: 10px;
+}
+#sectionr {
+	width: 45%;
+	float: right;
+	text-align: justify;
+}
+
+
+
+
+#header {
+}
+#headerh3 {
+	text-decoration: underline;
+	color: #770305;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+#para {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body hr {
+}
+
+#para2 {
+	color: #F72226;
+	line-height: 30px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-align: center;
+}
+
+#headerh2 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+#nav {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	background-color: #F3855A;
+	font-size: large;
+}
+#headerh31 {
+}
+#sectionl br {
+	clear: both;
+}
+
+#div1 {
+	text-align: center;
+	clear: both;
+
+}
+#div2 {
+	clear: both;
+	text-align: center;
+
+}
+#footer {
+	clear: both;
+	text-align: center;
+	font-style: oblique;
+	text-decoration: underline;
+	font-weight: bold;
+}
+#horiz {
+	opacity: 1;
+	clear: both;
+}
+#sectionleft {
+	float: left;
+}
+#sectionright {
+	float: right;
+}
+#headerh1 {
+}
+#sectionl {
+}
+#sectionl {
+}
